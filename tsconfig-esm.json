@@ -5,7 +5,6 @@
         "module": "ES2020",
         "allowJs": true,
         "noEmit": false,
-        "sourceMap": true,
         "declaration": true,
         "emitDeclarationOnly": true,
         "rootDir": "./dist",
